@@ -75,6 +75,6 @@
     "root_password": "vagrant",
     "root_autologin": true,
     "root_vagrant_keys": true,
-    "vm_name": "npc-osx-10_9-base"
+    "vm_name": "npc-osx-10-9-base"
   }
 }
